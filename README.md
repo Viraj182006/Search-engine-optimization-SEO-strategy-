@@ -41,3 +41,5 @@ Overall, creating this plan wasn’t just about collecting info—it was about o
 ![Image](https://github.com/user-attachments/assets/3d7c4427-fd5e-4107-84a6-fd65c7757ce1)
 ![Image](https://github.com/user-attachments/assets/da01264b-0c31-4df2-8aaa-cb0b2293260b)
 ![Image](https://github.com/user-attachments/assets/a37ce67b-c00c-4102-b334-403204828abf)  
+
+[CodTech_SEO_Strategy_Plan.docx](https://github.com/user-attachments/files/20823181/CodTech_SEO_Strategy_Plan.docx)

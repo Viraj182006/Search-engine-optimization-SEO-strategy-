@@ -33,3 +33,5 @@ To make the document even more actionable, I added a dedicated **SEO Implementat
 Finally, I wrapped everything up with a brief conclusion to highlight the importance of being consistent, measuring results, and adjusting over time. SEO isn’t a one-time thing; it’s an ongoing effort. I made sure that message came across.
 
 Overall, creating this plan wasn’t just about collecting info—it was about organizing it in a logical, clear, and helpful way so that it can actually be used. Every part of this document was typed by me carefully, thinking about what would help CodTech grow through SEO in a real and sustainable way.
+
+**Output** :

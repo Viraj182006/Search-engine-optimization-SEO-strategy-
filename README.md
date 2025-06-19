@@ -35,3 +35,9 @@ Finally, I wrapped everything up with a brief conclusion to highlight the import
 Overall, creating this plan wasn’t just about collecting info—it was about organizing it in a logical, clear, and helpful way so that it can actually be used. Every part of this document was typed by me carefully, thinking about what would help CodTech grow through SEO in a real and sustainable way.
 
 **Output** :
+
+![Image](https://github.com/user-attachments/assets/c61e46f4-7661-4a6f-8024-6fe8a72cc98e)
+![Image](https://github.com/user-attachments/assets/eebcc46d-6de7-4513-ba0e-1910d9771ff1)
+![Image](https://github.com/user-attachments/assets/3d7c4427-fd5e-4107-84a6-fd65c7757ce1)
+![Image](https://github.com/user-attachments/assets/da01264b-0c31-4df2-8aaa-cb0b2293260b)
+![Image](https://github.com/user-attachments/assets/a37ce67b-c00c-4102-b334-403204828abf)  
